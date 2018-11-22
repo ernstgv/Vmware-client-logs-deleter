@@ -8,7 +8,7 @@ write-host -ForegroundColor Red "###### Use at your own risk #####"
 write-host -ForegroundColor Red "###### Works with Windows with Powershell v3+ #####"
 write-host -ForegroundColor Red "###### Windows 2008 and Window 7 example: C:\Users\user_name\Local Settings\AppData\Local\VMware\vpx\viclient-x.log #####"
 write-host -ForegroundColor Red "###### Run As user with Admin priv #####"
-write-host -ForegroundColor Red "###### CONTACT ernstien.villareal@pcm.com for any concern #####"
+write-host -ForegroundColor Red "###### CONTACT ernstgv@gmail.com for any concern #####"
 
 
 ""
